@@ -11,6 +11,7 @@ h4{color: purple;}
 p.thick {
   font-weight: bold;
     background-color: Gray; 
+   text-align: center;
 }
 p.thicker {
   font-weight: 900;
