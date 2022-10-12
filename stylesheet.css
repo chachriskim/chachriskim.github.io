@@ -2,7 +2,7 @@ body {
   background-color: mistyrose;
 }
 h1{text-align: center;}
-h2{color: DarkGrey;
+h2{color: Silver;
 text-align: center;
 }
 h3{color: navy;}
@@ -10,7 +10,7 @@ h4{color: purple;}
 
 p.thick {
   font-weight: bold;
-    background-color: Silver; 
+    background-color: DarkGrey; 
    text-align: center;
 }
 p.thicker {
