@@ -1,0 +1,19 @@
+body {
+  background-color: lightgrey;
+}
+h2{color: green;}
+h3{color: blue;}
+h4{color: purple;}
+p.light {
+  font-weight: lighter;
+}
+
+p.thick {
+  font-weight: bold;
+    background-color: antiquewhite; 
+}
+
+p.thicker {
+  font-weight: 900;
+background-color: antiquewhite; 
+}
