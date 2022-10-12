@@ -1,5 +1,5 @@
 body {
-  background-color: antiquewhite;
+  background-color: mistyrose;
 }
 h2{color: midnightblue; }
 h3{color: navy; }
@@ -7,9 +7,9 @@ h4{color: purple; }
 
 p.thick {
   font-weight: bold;
-    background-color: lightcyan; 
+    background-color: snow; 
 }
 p.thicker {
   font-weight: 900;
-background-color: mistyrose; 
+background-color: whitesmoke; 
 }
