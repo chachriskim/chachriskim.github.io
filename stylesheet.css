@@ -1,9 +1,12 @@
 body {
   background-color: mistyrose;
 }
-h2{color: DarkGrey; }
-h3{color: navy; }
-h4{color: purple; }
+h1{text-align: center;}
+h2{color: DarkGrey;
+text-align: center;
+}
+h3{color: navy;}
+h4{color: purple;}
 
 p.thick {
   font-weight: bold;
