@@ -7,5 +7,9 @@ h4{color: purple; }
 
 p.thick {
   font-weight: bold;
-    background-color: powderblue; 
+    background-color: lightcyan; 
+}
+p.thicker {
+  font-weight: 900;
+background-color: mistyrose; 
 }
