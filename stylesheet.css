@@ -1,9 +1,9 @@
 body {
   background-color: antiquewhite;
 }
-h2{color: midnightblue;}
-h3{color: navy;}
-h4{color: purple;}
+h2{color: midnightblue; }
+h3{color: navy; }
+h4{color: purple; }
 
 p.thick {
   font-weight: bold;
